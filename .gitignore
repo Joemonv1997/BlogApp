@@ -1,0 +1,6 @@
+env
+backend/.env
+
+backend/common/__pycache__
+backend/web/__pycache__
+backend/web/blog/__pycache__
