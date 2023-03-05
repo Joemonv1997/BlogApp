@@ -2,5 +2,5 @@ env
 backend/common/__pycache__
 backend/web/__pycache__
 backend/web/blog/__pycache__
-backend/repository/blog/__pycache__
+backend/repository/__pycache__
 backend/.env
