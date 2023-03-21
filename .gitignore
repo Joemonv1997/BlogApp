@@ -4,3 +4,4 @@ backend/web/__pycache__
 backend/web/blog/__pycache__
 backend/repository/__pycache__
 backend/.env
+backend/migrations
